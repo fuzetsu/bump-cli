@@ -1,4 +1,8 @@
-## v1.2.0 - April 16, 2021
+## v2.0.1 - Unreleased
+
+* Upgrade dependencies to fix package vulnerabilities
+
+## v2.0.0 - April 16, 2021
 
  * Republish as [`@rstacruz/bump-cli`](https://npmjs.com). The `bump-cli` package name will be donated.
 
